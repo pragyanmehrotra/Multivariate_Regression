@@ -1,0 +1,2 @@
+# Multivariate_Regression
+Given a set of inputs corresponding to 1 output, the program calculates the multivariate regression for it. It also performs the 80 20 ratio system i.e it trains on the 1st 80% of the data and then test on the remaining 20% it then calculates the mean squared error and mean absolute error, also for a given input it finds the best combination of inputs it should consider to minimize the error 
